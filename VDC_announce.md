@@ -32,7 +32,7 @@ For Python exercises, we will use **Google Colab**, an online Python environment
 Here is some more background on Google Colab (optional):
 <https://research.google.com/colaboratory/faq.html>
 
-Python can also be run locally via integrated tools like **Anaconda** [<https://anaconda.com>] or directly via the command line [<https://www.python.org>].  You may be familiar with these methods as well, but for a consistent experience, we ask you to use Google Colab for the purposes of the workshop.
+Python can also be run locally via integrated tools like **Anaconda** [<https://anaconda.com>] or directly via the command line using **Python** along [<https://www.python.org>].  You may be familiar with these methods as well, but for a consistent experience, we ask you to use Google Colab for the purposes of the workshop.
 
 Datasets and code will be provided during the workshop. 
 
