@@ -2,7 +2,10 @@
 title: "VDC Undergraduate Data Science Workshop"
 author: "Virtual Data Collaboratory"
 date: "11/4/2020"
-output: html_document
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
 ---
 
 Welcome to the Virtual Data Collaboratory's **Undergraduate Data Science Workshop**!  We are excited to share an overview of Data Science practices, tools, and career information with you.
